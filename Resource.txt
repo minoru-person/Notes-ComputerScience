@@ -4,3 +4,4 @@ W3Schools
 Mozilla Development Network
 r/learnJs
 free programming books github
+Eloquent JavaScript
