@@ -5,3 +5,4 @@ Mozilla Development Network
 r/learnJavascript
 free programming books github
 Eloquent JavaScript
+ECMA Script Standard
