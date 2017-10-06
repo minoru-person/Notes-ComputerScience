@@ -1,2 +1,2 @@
-# JavaScript-Notes
-My Notes on JavaScript
+# Notes
+My Notes on JavaScript and others.
